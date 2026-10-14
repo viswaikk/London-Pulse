@@ -1,0 +1,472 @@
+NLC,ASC,Station,Fare Zone,x,y,coordinate_method
+750,ABRd,Abbey Road,2/3,0.005308217,51.5318653,reference NLC match
+1404,ACCr,Acton Central,3,-0.263430195,51.50875735,reference NLC match
+3000,AMLr,Acton Main Line,3,-0.2668,51.5171,reference NLC match
+500,ACTu,Acton Town,3,-0.278432824,51.50213702,reference NLC match
+9441,ADVt,Addington Village,4,-0.031284121,51.35570988,reference NLC match
+9440,ADSt,Addiscombe,4,-0.07162576,51.37934189,reference NLC match
+502,ALDu,Aldgate,1,-0.0742363,51.51398203,reference NLC match
+503,ALEu,Aldgate East,1,-0.069540402,51.51491653,reference NLC match
+850,ALSd,All Saints,2,-0.011456278,51.51051157,reference NLC match
+505,ALPu,Alperton,4,-0.298361133,51.54022715,reference NLC match
+506,AMEu,Amersham,9,-0.606146762,51.67366188,reference NLC match
+9442,AMPt,Ampere Way,4,-0.122172554,51.3818536,reference NLC match
+5397,ANYr,Anerley,4,-0.06410424,51.411617,reference NLC match
+507,ANGu,Angel,1,-0.103116359,51.5309796,reference NLC match
+508,ARCu,Archway,2/3,-0.13344404,51.56403452,reference NLC match
+9443,ARNt,Arena,4,-0.056679487,51.39105665,reference NLC match
+509,AGRu,Arnos Grove,4,-0.131434823,51.61595478,reference NLC match
+510,ARLu,Arsenal,2,-0.105674399,51.55811105,reference NLC match
+9444,AVRt,Avenue Road,4,-0.048118188,51.40615963,reference NLC match
+511,BSTu,Baker Street,1,-0.155454387,51.52249387,reference NLC match
+512,BALu,Balham LU,3,-0.151090206,51.44310998,reference NLC match
+513,BNKu,Bank and Monument,1,-0.08729695,51.51291511,reference NLC match
+501,BARu,Barbican,1,-0.097189673,51.51969921,reference NLC match
+514,BKGu,Barking,4,0.081813552,51.53937511,reference NLC match
+1335,BGVr,Barking Riverside,4,0.114764,51.519108,reference NLC match
+515,BDEu,Barkingside,4,0.090259547,51.58519895,reference NLC match
+516,BCTu,Barons Court,2,-0.213088174,51.48978737,reference NLC match
+832,BPSu,Battersea Power Station,1,-0.142001351,51.47949634,reference NLC match
+517,BAYu,Bayswater,1,-0.186322701,51.51181507,reference NLC match
+9445,BCJt,Beckenham Junction Trams,4,-0.024636241,51.41045194,reference NLC match
+9446,BCRt,Beckenham Road,4,-0.04159356,51.40909636,reference NLC match
+895,BECd,Beckton,3,0.063442568,51.51390419,reference NLC match
+891,BEPd,Beckton Park,3,0.056557435,51.50826026,reference NLC match
+518,BECu,Becontree,5,0.128978641,51.53983401,reference NLC match
+9449,BDLt,Beddington Lane,4,-0.141260885,51.38891199,reference NLC match
+9450,BGWt,Belgrave Walk,4,-0.176840028,51.40044481,reference NLC match
+519,BPKu,Belsize Park,2,-0.163016956,51.54982085,reference NLC match
+787,BERu,Bermondsey,2,-0.062745893,51.49718984,reference NLC match
+6961,BETr,Bethnal Green LO,2,-0.057862441,51.52350343,reference NLC match
+520,BNGu,Bethnal Green LU,2,-0.053074702,51.52672839,reference NLC match
+9454,BKBt,Birkbeck Trams,4,-0.054580141,51.40304289,reference NLC match
+521,BLFu,Blackfriars LU,1,-0.102020251,51.51111447,reference NLC match
+9459,BHLt,Blackhorse Lane,4,-0.06870387,51.3844061,reference NLC match
+522,BHRu,Blackhorse Road,3,-0.040174342,51.58633801,reference NLC match
+882,BLAd,Blackwall,2,-0.005550544,51.50745237,reference NLC match
+524,BDSu,Bond Street,1,-0.148076884,51.51387033,reference NLC match
+525,BORu,Borough,1,-0.091702818,51.50067969,reference NLC match
+526,BOSu,Boston Manor,4,-0.32401176,51.494711,reference NLC match
+527,BGRu,Bounds Green,3/4,-0.122731021,51.60656487,reference NLC match
+851,BOCd,Bow Church,2,-0.01918061,51.52715522,reference NLC match
+528,BWRu,Bow Road,2,-0.02358427,51.52639287,reference NLC match
+529,BTXu,Brent Cross,3,-0.212185251,51.57616797,reference NLC match
+6872,BREr,Brentwood,9,0.301589064,51.61307149,reference NLC match
+778,BRXu,Brixton LU,2,-0.113288835,51.46215131,reference NLC match
+5404,BCYr,Brockley,2,-0.035763775,51.46411871,reference NLC match
+530,BBBu,Bromley-by-Bow,2/3,-0.009841042,51.52424987,reference NLC match
+1437,BSYr,Brondesbury,2,-0.200631035,51.5448108,reference NLC match
+1438,BSPr,Brondesbury Park,2,-0.208495753,51.54030862,reference NLC match
+6958,BCVr,Bruce Grove,3,-0.068182034,51.59336509,reference NLC match
+531,BHLu,Buckhurst Hill,5,0.048455336,51.62548342,reference NLC match
+3176,BNMr,Burnham,CPC,-0.646388208,51.52350399,reference NLC match
+532,BURu,Burnt Oak,4,-0.262398845,51.60233699,reference NLC match
+6913,BHKr,Bush Hill Park,5,-0.067751096,51.64092455,reference NLC match
+1395,BSHr,Bushey,8,-0.38369919,51.64433251,reference NLC match
+534,CRDu,Caledonian Road,2,-0.116864262,51.54801774,reference NLC match
+1439,CIRr,Caledonian Road & Barnsbury,2,-0.114106929,51.54261531,reference NLC match
+6962,CBHr,Cambridge Heath,2,-0.055565622,51.53173049,reference NLC match
+1440,CMDr,Camden Road,2,-0.137154414,51.54122083,reference NLC match
+535,CTNu,Camden Town,2,-0.141016888,51.53872412,reference NLC match
+788,CWRu,Canada Water,2,-0.048105945,51.49744864,reference NLC match
+842,CAWd,Canary Wharf DLR,2,-0.019337121,51.50461022,reference NLC match
+852,CWFu,Canary Wharf LU,2,-0.016134819,51.50291749,reference NLC match
+884,CNTu,Canning Town,2/3,0.009568884,51.51360991,reference NLC match
+536,CSTu,Cannon Street LU,1,-0.088801035,51.51096254,reference NLC match
+1441,CNNr,Canonbury,2,-0.090522836,51.54817851,reference NLC match
+537,CPKu,Canons Park,5,-0.293102561,51.60721294,reference NLC match
+1442,CPKr,Carpenders Park,7,-0.384142381,51.62780024,reference NLC match
+9488,TWRt,Centrale,4,-0.102295527,51.37525458,reference NLC match
+6874,CTHr,Chadwell Heath,5,0.130973337,51.56749975,reference NLC match
+539,CLFu,Chalfont & Latimer,8,-0.559159868,51.66754646,reference NLC match
+540,CHFu,Chalk Farm,2,-0.151037017,51.54335257,reference NLC match
+541,CYLu,Chancery Lane,1,-0.109960547,51.5177395,reference NLC match
+718,CHXu,Charing Cross LU,1,-0.125777173,51.50686754,reference NLC match
+543,CHMu,Chesham,9,-0.609421076,51.70474175,reference NLC match
+6814,CHNr,Cheshunt,8,-0.022373213,51.70246665,reference NLC match
+544,CHGu,Chigwell,4,0.077229167,51.61715195,reference NLC match
+6914,CHIr,Chingford,5,0.011677573,51.63278212,reference NLC match
+545,CHPu,Chiswick Park,3,-0.266981606,51.49415785,reference NLC match
+546,CWDu,Chorleywood,7,-0.516985176,51.65380677,reference NLC match
+9460,CSTt,Church Street,4,-0.102795537,51.37319514,reference NLC match
+547,CPCu,Clapham Common,2,-0.135588991,51.46169503,reference NLC match
+5301,CLPr,Clapham High Street,2,-0.131145084,51.46503062,reference NLC match
+5595,CLJr,Clapham Junction,2,-0.16856542,51.4629141,reference NLC match
+548,CPNu,Clapham North,2,-0.127754372,51.4652144,reference NLC match
+549,CPSu,Clapham South,2/3,-0.145610374,51.45272059,reference NLC match
+6926,CPTr,Clapton,2/3,-0.055484597,51.56103029,reference NLC match
+550,CFSu,Cockfosters,5,-0.147553187,51.65103526,reference NLC match
+551,COLu,Colindale,4,-0.248341905,51.59494713,reference NLC match
+552,CLWu,Colliers Wood,3,-0.176460893,51.41763979,reference NLC match
+9464,COOt,Coombe Lane,4,-0.058520648,51.35927821,reference NLC match
+553,COVu,Covent Garden,1,-0.122759938,51.51263471,reference NLC match
+854,CROd,Crossharbour,2,-0.012863868,51.49538997,reference NLC match
+7406,CRHr,Crouch Hill,3,-0.115463356,51.57086778,reference NLC match
+554,CRXu,Croxley,7,-0.44019171,51.64658792,reference NLC match
+5356,CYPr,Crystal Palace,3/4,-0.071128264,51.41763277,reference NLC match
+887,CUHd,Custom House DLR,3,0.028149357,51.50922299,reference NLC match
+879,CUSd,Cutty Sark,2/3,-0.009463903,51.48115778,reference NLC match
+893,CYPd,Cyprus,3,0.065567428,51.50798477,reference NLC match
+555,DGEu,Dagenham East,5,0.167617456,51.54364955,reference NLC match
+556,DGHu,Dagenham Heathway,5,0.149158377,51.54110645,reference NLC match
+1443,DLJr,Dalston Junction,2,-0.07344152,51.5448144,reference NLC match
+1429,DLKr,Dalston Kingsland,2,-0.074035153,51.54783695,reference NLC match
+557,DEBu,Debden,6,0.085403181,51.64489405,reference NLC match
+5421,DMKr,Denmark Hill,2,-0.088015106,51.46758176,reference NLC match
+897,DEBd,Deptford Bridge,2/3,-0.020845808,51.47378671,reference NLC match
+867,DERd,Devons Road,2,-0.015859691,51.52195436,reference NLC match
+558,DHLu,Dollis Hill,3,-0.237445148,51.55145847,reference NLC match
+9468,DDRt,Dundonald Road,3,-0.206116509,51.41708633,reference NLC match
+560,EBYu,Ealing Broadway,3,-0.299418497,51.51449777,reference NLC match
+561,ECMu,Ealing Common,3,-0.286555479,51.50903565,reference NLC match
+562,ECTu,Earl's Court,1/2,-0.19157701,51.4914734,reference NLC match
+563,EACu,East Acton,2,-0.245569272,51.51609001,reference NLC match
+9470,ECRt,East Croydon Trams,4,-0.09106147,51.37431604,reference NLC match
+565,EFYu,East Finchley,3,-0.163438627,51.58665344,reference NLC match
+566,EHMu,East Ham,3/4,0.054454908,51.5388975,reference NLC match
+883,EAId,East India,2/3,-0.000674542,51.50887121,reference NLC match
+567,EPYu,East Putney,2/3,-0.209468663,51.45863492,reference NLC match
+564,ETEu,Eastcote,5,-0.39578946,51.57601384,reference NLC match
+568,EDGu,Edgware,5,-0.273183711,51.61311251,reference NLC match
+774,ERBu,Edgware Road (Bak),1,-0.168645951,51.51996099,reference NLC match
+569,ERDu,Edgware Road (DIS),1,-0.166170742,51.51936413,reference NLC match
+6941,EDRr,Edmonton Green,4,-0.059376907,51.62445425,reference NLC match
+570,ELEu,Elephant & Castle LU,1/2,-0.099577259,51.4953253,reference NLC match
+571,EPKu,Elm Park,6,0.200311564,51.54920911,reference NLC match
+9471,ELMt,Elmers End,4,-0.047979561,51.39779044,reference NLC match
+898,ELRd,Elverson Road,2/3,-0.014766759,51.46817948,reference NLC match
+542,EMBu,Embankment,1,-0.120562428,51.50694137,reference NLC match
+7473,EMPr,Emerson Park,6,0.221721192,51.56818654,reference NLC match
+6959,ENFr,Enfield Town,5,-0.077733958,51.65163779,reference NLC match
+572,EPPu,Epping,6,0.115641374,51.69306818,reference NLC match
+574,EUSu,Euston LU,1,-0.132992071,51.52757668,reference NLC match
+1444,EUSr,Euston NR,1,-0.131403702,51.52774704,reference NLC match
+575,ESQu,Euston Square,1,-0.134270582,51.52512499,reference NLC match
+576,FLPu,Fairlop,4,0.092688126,51.59505439,reference NLC match
+577,FARu,Farringdon,1,-0.103582415,51.51996102,reference NLC match
+9472,FLWt,Fieldway,4,-0.022640017,51.3504305,reference NLC match
+578,FYCu,Finchley Central,4,-0.190951925,51.60043321,reference NLC match
+579,FRDu,Finchley Road,2,-0.179489511,51.54672589,reference NLC match
+1445,FNYr,Finchley Road & Frognal,2,-0.181637018,51.54982406,reference NLC match
+580,FPKu,Finsbury Park LU,2,-0.105068129,51.56406609,reference NLC match
+6876,FOGr,Forest Gate,3,0.02615387,51.54895648,reference NLC match
+5362,FOHr,Forest Hill,3,-0.051690278,51.43872534,reference NLC match
+581,FBYu,Fulham Broadway,2,-0.193168686,51.48025536,reference NLC match
+894,GARd,Gallions Reach,3,0.073386821,51.50846722,reference NLC match
+582,GHLu,Gants Hill,4,0.067825538,51.57602949,reference NLC match
+9473,GSTt,George Street,4,-0.097458992,51.37338118,reference NLC match
+6877,GDPr,Gidea Park,6,0.2071101,51.58117713,reference NLC match
+583,GRDu,Gloucester Road,1,-0.182135121,51.49397763,reference NLC match
+584,GGRu,Golders Green,3,-0.192420671,51.57178437,reference NLC match
+585,GHRu,Goldhawk Road,2,-0.225049873,51.50148234,reference NLC match
+586,GSTu,Goodge Street,1,-0.132736642,51.52009307,reference NLC match
+6878,GMYr,Goodmayes,4,0.112414564,51.56500163,reference NLC match
+1409,GPOr,Gospel Oak,2,-0.149494861,51.55486145,reference NLC match
+587,GRHu,Grange Hill,4,0.093957755,51.61269646,reference NLC match
+9474,GVHt,Gravel Hill,4,-0.041304236,51.35401751,reference NLC match
+588,GPSu,Great Portland Street,1,-0.142685711,51.52333822,reference NLC match
+590,GPKu,Green Park,1,-0.140937126,51.50635747,reference NLC match
+589,GFDu,Greenford,4,-0.34492109,51.54208841,reference NLC match
+928,GREd,Greenwich,2/3,-0.011836627,51.47760944,reference NLC match
+591,GUNu,Gunnersbury,3,-0.273547129,51.49123204,reference NLC match
+6977,HKCr,Hackney Central,2,-0.055208719,51.54652805,reference NLC match
+6867,HACr,Hackney Downs,2,-0.059252378,51.54844772,reference NLC match
+6978,HKWr,Hackney Wick,2,-0.021765777,51.54302792,reference NLC match
+1022,HGGr,Haggerston,2,-0.073966769,51.53852752,reference NLC match
+592,HAIu,Hainault,4,0.095143844,51.60313737,reference NLC match
+593,HMDu,Hammersmith (DIS),2,-0.22144689,51.49148885,reference NLC match
+773,HMSu,Hammersmith (H&C),2,-0.223334507,51.49327356,reference NLC match
+594,HMPu,Hampstead,2/3,-0.17692039,51.55608598,reference NLC match
+1413,HDHr,Hampstead Heath,2,-0.164099101,51.55475816,reference NLC match
+595,HLNu,Hanger Lane,3,-0.291095909,51.52968038,reference NLC match
+3191,HANr,Hanwell,4,-0.343467405,51.51026707,reference NLC match
+596,HARu,Harlesden,3,-0.256997378,51.53619355,reference NLC match
+6879,HROr,Harold Wood,6,0.234666819,51.59219909,reference NLC match
+7401,HRYr,Harringay Green Lanes,3,-0.096693484,51.57659043,reference NLC match
+9475,HRDt,Harrington Road,4,-0.058885135,51.3991503,reference NLC match
+597,HAWu,Harrow & Wealdstone,5,-0.333300136,51.59154651,reference NLC match
+598,HOHu,Harrow-on-the-Hill,5,-0.33516664,51.57891586,reference NLC match
+1398,HTEr,Hatch End,6,-0.367177631,51.60890473,reference NLC match
+779,HTXu,Hatton Cross,5/6,-0.42189306,51.4661174,reference NLC match
+3186,HAYr,Hayes & Harlington,5,-0.420641893,51.50304839,reference NLC match
+1434,HDLr,Headstone Lane,5,-0.355651952,51.60209779,reference NLC match
+7091,HAFr,Heathrow Terminal 4 EL,6,-0.444145672,51.45802947,reference NLC match
+781,HRFu,Heathrow Terminal 4 LU,6,-0.444145672,51.45802947,reference NLC match
+783,HRVu,Heathrow Terminal 5 LU,6,-0.486475608,51.47201647,reference NLC match
+780,HRCu,Heathrow Terminals 123 LU,6,-0.450857772,51.47079421,reference NLC match
+7090,HXXr,Heathrow Terminals 2 & 3 EL,6,-0.450857772,51.47079421,reference NLC match
+601,HNDu,Hendon Central,3/4,-0.224748399,51.58267136,reference NLC match
+855,HEQd,Heron Quays,2,-0.019832666,51.50281981,reference NLC match
+602,HBTu,High Barnet,5,-0.192561468,51.65002914,reference NLC match
+605,HSTu,High Street Kensington,1,-0.190607248,51.49993492,reference NLC match
+6919,HIPr,Highams Park,4,0.00150512,51.607873,reference NLC match
+603,HBYu,Highbury & Islington,2,-0.102125867,51.54691824,reference NLC match
+604,HIGu,Highgate,3,-0.144860652,51.577342,reference NLC match
+606,HDNu,Hillingdon,6,-0.447812239,51.55344939,reference NLC match
+607,HOLu,Holborn,1,-0.1188087,51.51706879,reference NLC match
+608,HPKu,Holland Park,2,-0.204062863,51.50664438,reference NLC match
+609,HRDu,Holloway Road,2,-0.111653531,51.55225038,reference NLC match
+6979,HMNr,Homerton,2,-0.040627028,51.54649227,reference NLC match
+5418,HPAr,Honor Oak Park,3,-0.044096334,51.44940041,reference NLC match
+610,HCHu,Hornchurch,6,0.220754707,51.55353835,reference NLC match
+611,HNCu,Hounslow Central,4,-0.364716069,51.470809,reference NLC match
+612,HNEu,Hounslow East,4,-0.3547554,51.47275219,reference NLC match
+613,HNWu,Hounslow West,5,-0.384218262,51.47310845,reference NLC match
+1023,HOXr,Hoxton,1/2,-0.074056385,51.53093841,reference NLC match
+614,HPCu,Hyde Park Corner,1,-0.152546395,51.50224103,reference NLC match
+615,ICKu,Ickenham,6,-0.440467266,51.56146986,reference NLC match
+6881,IFDr,Ilford,4,0.07080065,51.55848898,reference NLC match
+9586,IMWr,Imperial Wharf,2,-0.181347614,51.47457995,reference NLC match
+856,ISGd,Island Gardens,2,-0.008883221,51.48754261,reference NLC match
+3170,IVRr,Iver,CPC,-0.506740419,51.5085013,reference NLC match
+616,KENu,Kennington,2,-0.104357247,51.48782707,reference NLC match
+617,KGNu,Kensal Green,2,-0.222882378,51.5300656,reference NLC match
+1448,KNRr,Kensal Rise,2,-0.218097094,51.53413249,reference NLC match
+618,OLYu,Kensington (Olympia),2,-0.208533266,51.49722528,reference NLC match
+619,KTNu,Kentish Town,2,-0.13914119,51.54978865,reference NLC match
+1449,KTWr,Kentish Town West,2,-0.145240267,51.54596266,reference NLC match
+620,KETu,Kenton,4,-0.315140189,51.58111281,reference NLC match
+621,KEWu,Kew Gardens,3/4,-0.283453589,51.47648632,reference NLC match
+622,KILu,Kilburn,2,-0.203115567,51.54644842,reference NLC match
+1415,KBNr,Kilburn High Road,2,-0.190635722,51.53680577,reference NLC match
+623,KPKu,Kilburn Park,2,-0.192420271,51.53444139,reference NLC match
+523,KGVd,King George V,3,0.063920007,51.50151128,reference NLC match
+9476,KHDt,King Henry's Drive,4,-0.018665196,51.3448509,reference NLC match
+625,KXXu,King's Cross St. Pancras,1,-0.123168404,51.52927728,reference NLC match
+624,KBYu,Kingsbury,4,-0.277052309,51.58414203,reference NLC match
+626,KNBu,Knightsbridge,1,-0.159863737,51.50073061,reference NLC match
+627,LGRu,Ladbroke Grove,2,-0.209304449,51.51681261,reference NLC match
+628,LAMu,Lambeth North,1,-0.110624882,51.49833058,reference NLC match
+629,LANu,Lancaster Gate,1,-0.173843886,51.51117805,reference NLC match
+853,LAPd,Langdon Park,2,-0.012505001,51.51456754,reference NLC match
+3171,LNYr,Langley,CPC,-0.541770556,51.50806077,reference NLC match
+630,LATu,Latimer Road,2,-0.216257476,51.51295039,reference NLC match
+9477,LEBt,Lebanon Road,4,-0.08389645,51.37468254,reference NLC match
+631,LSQu,Leicester Square,1,-0.126725567,51.51089472,reference NLC match
+940,LEWd,Lewisham DLR,2/3,-0.012465383,51.46513641,reference NLC match
+632,LEYu,Leyton,3,-0.00386474,51.55609689,reference NLC match
+7402,LEMr,Leyton Midland Road,3,-0.00583941,51.56914561,reference NLC match
+633,LYSu,Leytonstone,3/4,0.009807678,51.56781496,reference NLC match
+7403,LERr,Leytonstone High Road,3,0.009121703,51.56347619,reference NLC match
+862,LIMd,Limehouse DLR,2,-0.038095069,51.51179704,reference NLC match
+634,LSTu,Liverpool Street LU,1,-0.081601363,51.5168424,reference NLC match
+6965,LSTr,Liverpool Street NR,1,-0.080013644,51.51752768,reference NLC match
+9478,LPKt,Lloyd Park,4,-0.079087981,51.36367068,reference NLC match
+635,LONu,London Bridge LU,1,-0.088037808,51.50455372,reference NLC match
+533,LCAd,London City Airport,3,0.04977043,51.50315378,reference NLC match
+6966,LOFr,London Fields,2,-0.056359095,51.54052142,reference NLC match
+636,LTNu,Loughton,6,0.056970973,51.6408144,reference NLC match
+637,MDVu,Maida Vale,2,-0.184228557,51.52922219,reference NLC match
+3147,MAIr,Maidenhead,CPC,-0.722674911,51.51866743,reference NLC match
+638,MNRu,Manor House,2/3,-0.094452148,51.57024769,reference NLC match
+6883,MNPr,Manor Park,3/4,0.047651015,51.55189321,reference NLC match
+639,MANu,Mansion House,1,-0.092495313,51.51130597,reference NLC match
+640,MARu,Marble Arch,1,-0.155755638,51.51309055,reference NLC match
+6970,MYLr,Maryland,3,0.007539167,51.54554249,reference NLC match
+641,MYBu,Marylebone LU,1,-0.162637346,51.52165079,reference NLC match
+9479,MPKt,Merton Park,3,-0.199772348,51.41320626,reference NLC match
+642,MLEu,Mile End,2,-0.032150165,51.52472507,reference NLC match
+643,MHEu,Mill Hill East,4,-0.208460194,51.60773582,reference NLC match
+9480,MTMt,Mitcham,4,-0.16947597,51.39700089,reference NLC match
+9481,MTJt,Mitcham Junction,4,-0.155733719,51.39213248,reference NLC match
+646,MPKu,Moor Park,6/7,-0.430710233,51.6293749,reference NLC match
+645,MGTu,Moorgate,1,-0.087700241,51.5178533,reference NLC match
+647,MORu,Morden,4,-0.193160282,51.40201673,reference NLC match
+9482,MRDt,Morden Road,4,-0.191339995,51.408346,reference NLC match
+648,MCRu,Mornington Crescent,2,-0.137143461,51.53419787,reference NLC match
+857,MUDd,Mudchute,2,-0.013413578,51.49037168,reference NLC match
+649,NEAu,Neasden,3,-0.24957656,51.5539234,reference NLC match
+9484,NADt,New Addington,4,-0.015617483,51.34195708,reference NLC match
+5150,NWXr,New Cross,2,-0.030648703,51.47590464,reference NLC match
+5345,NXGr,New Cross Gate,2,-0.038716887,51.47449297,reference NLC match
+650,NEPu,Newbury Park,4,0.091554903,51.57519974,reference NLC match
+831,NIEu,Nine Elms,1,-0.128500983,51.48000105,reference NLC match
+653,NACu,North Acton,2/3,-0.258167978,51.52310534,reference NLC match
+654,NELu,North Ealing,3,-0.287236576,51.51697561,reference NLC match
+789,NOGu,North Greenwich,2/3,0.005908784,51.50002099,reference NLC match
+656,NHRu,North Harrow,5,-0.361021834,51.58444941,reference NLC match
+659,NWBu,North Wembley,4,-0.302293996,51.56189247,reference NLC match
+655,NFDu,Northfields,3,-0.311409865,51.49914634,reference NLC match
+657,NHTu,Northolt,5,-0.367069735,51.54775741,reference NLC match
+660,NWPu,Northwick Park,4,-0.316478653,51.57797585,reference NLC match
+661,NWDu,Northwood,6,-0.422358538,51.61052039,reference NLC match
+662,NWHu,Northwood Hills,6,-0.407168137,51.59969703,reference NLC match
+5376,NWDr,Norwood Junction,4,-0.073428759,51.39678711,reference NLC match
+663,NHGu,Notting Hill Gate,1/2,-0.194491212,51.5086469,reference NLC match
+664,OAKu,Oakwood,5,-0.129657109,51.64683948,reference NLC match
+665,OLDu,Old Street,1,-0.086025441,51.52457628,reference NLC match
+667,OSTu,Osterley,4,-0.350640896,51.48073359,reference NLC match
+668,OVLu,Oval,2,-0.110799082,51.48132384,reference NLC match
+669,OXCu,Oxford Circus,1,-0.140025246,51.51481046,reference NLC match
+3087,PADr,Paddington NR,1,-0.174388339,51.51605291,reference NLC match
+670,PADu,Paddington TfL,1,-0.17719615,51.51800497,reference NLC match
+671,PRYu,Park Royal,3,-0.282378071,51.52597425,reference NLC match
+672,PGRu,Parsons Green,2,-0.200166803,51.47447238,reference NLC match
+5423,PMRr,Peckham Rye,2,-0.067330906,51.46977879,reference NLC match
+5378,PNWr,Penge West,4,-0.059203378,51.41696823,reference NLC match
+673,PERu,Perivale,4,-0.32183979,51.53624702,reference NLC match
+9485,PHLt,Phipps Bridge,4,-0.180769806,51.40292944,reference NLC match
+674,PICu,Piccadilly Circus,1,-0.132081484,51.50955061,reference NLC match
+776,PIMu,Pimlico,1,-0.132103672,51.48856954,reference NLC match
+675,PINu,Pinner,5,-0.379580851,51.59232907,reference NLC match
+676,PLWu,Plaistow,3,0.018612643,51.53072137,reference NLC match
+538,PDKd,Pontoon Dock,3,0.03485088,51.50176796,reference NLC match
+858,POPd,Poplar,2,-0.015607274,51.50720026,reference NLC match
+677,PRDu,Preston Road,4,-0.293539223,51.57151381,reference NLC match
+888,PRRd,Prince Regent,3,0.035815177,51.50885626,reference NLC match
+859,PMLd,Pudding Mill Lane,2/3,-0.012349897,51.53368602,reference NLC match
+678,PUTu,Putney Bridge,2,-0.207131382,51.46774182,reference NLC match
+680,QPKu,Queen's Park,2,-0.204142926,51.53347212,reference NLC match
+5424,QRPr,Queens Road Peckham,2,-0.055827609,51.47310519,reference NLC match
+679,QBYu,Queensbury,4,-0.284629817,51.59369962,reference NLC match
+681,QWYu,Queensway,1,-0.185538472,51.50974305,reference NLC match
+682,RCPu,Ravenscourt Park,2,-0.234181724,51.49365752,reference NLC match
+683,RAYu,Rayners Lane,5,-0.369864752,51.57469667,reference NLC match
+3149,RDGr,Reading,CPC,-0.971877621,51.45878457,reference NLC match
+6967,RECr,Rectory Road,2,-0.066636749,51.55800392,reference NLC match
+684,REDu,Redbridge,4,0.047039301,51.5757446,reference NLC match
+9486,RVCt,Reeves Corner,4,-0.104688108,51.37426316,reference NLC match
+685,RPKu,Regent's Park,1,-0.144708117,51.52277011,reference NLC match
+686,RMDu,Richmond,4,-0.300084253,51.46260595,reference NLC match
+687,RKYu,Rickmansworth,7,-0.472133393,51.63979883,reference NLC match
+688,RODu,Roding Valley,4,0.045340184,51.61657815,reference NLC match
+6886,RMFr,Romford,6,0.184863954,51.57454494,reference NLC match
+1039,ROEr,Rotherhithe,2,-0.050510094,51.50053752,reference NLC match
+890,ROAd,Royal Albert,3,0.047489859,51.50789742,reference NLC match
+690,ROYu,Royal Oak,2,-0.186186162,51.51854003,reference NLC match
+886,ROVd,Royal Victoria,3,0.019349595,51.50871834,reference NLC match
+691,RUIu,Ruislip,6,-0.420215108,51.57079343,reference NLC match
+692,RUGu,Ruislip Gardens,5,-0.409140537,51.56027575,reference NLC match
+693,RUMu,Ruislip Manor,6,-0.410235646,51.57297789,reference NLC match
+694,RSQu,Russell Square,1,-0.122662273,51.52255053,reference NLC match
+9487,SANt,Sandilands,4,-0.07612476,51.37441486,reference NLC match
+6893,SVKr,Seven Kings,4,0.098722803,51.5634541,reference NLC match
+698,SVSu,Seven Sisters,3,-0.070894139,51.58289546,reference NLC match
+860,SHAd,Shadwell DLR,2,-0.05512963,51.51118155,reference NLC match
+1082,SDEr,Shadwell LO,2,-0.055365921,51.51070004,reference NLC match
+6888,SNFr,Shenfield,12,0.331671253,51.6300009,reference NLC match
+700,SBCu,Shepherd's Bush LU,2,-0.217238899,51.50384346,reference NLC match
+775,SBMu,Shepherd's Bush Market,2,-0.224700725,51.50558155,reference NLC match
+9587,SPBr,Shepherd's Bush NR,2,-0.217219888,51.50417089,reference NLC match
+1024,SDCr,Shoreditch High Street,1,-0.074700292,51.52285471,reference NLC match
+6972,SLVr,Silver Street,4,-0.065526104,51.61440848,reference NLC match
+702,SSQu,Sloane Square,1,-0.15473274,51.49182524,reference NLC match
+3172,SLOr,Slough,CPC,-0.591524825,51.51187888,reference NLC match
+703,SNBu,Snaresbrook,4,0.023019902,51.58017276,reference NLC match
+1452,SATr,South Acton,3,-0.268894276,51.49891951,reference NLC match
+704,SELu,South Ealing,3,-0.305919519,51.50039136,reference NLC match
+1451,SOHr,South Hampstead,2,-0.177570816,51.54111829,reference NLC match
+707,SHRu,South Harrow,5,-0.350509518,51.56404932,reference NLC match
+708,SKNu,South Kensington,1,-0.171564291,51.49357736,reference NLC match
+709,SKTu,South Kenton,4,-0.306785037,51.56971265,reference NLC match
+861,SOQd,South Quay,2,-0.017414424,51.50009877,reference NLC match
+710,SRPu,South Ruislip,5,-0.39728854,51.55635983,reference NLC match
+7404,STOr,South Tottenham,3,-0.070375895,51.58009969,reference NLC match
+711,SWMu,South Wimbledon,3/4,-0.191711278,51.41446924,reference NLC match
+712,SWFu,South Woodford,4,0.028990141,51.59138934,reference NLC match
+3187,STLr,Southall,4,-0.378711181,51.50595629,reference NLC match
+6947,SBUr,Southbury,5,-0.049888718,51.64825562,reference NLC match
+705,SFSu,Southfields,3,-0.205058529,51.4445635,reference NLC match
+706,SGTu,Southgate,4,-0.126150933,51.6317626,reference NLC match
+784,SWKu,Southwark,1,-0.103788452,51.50377646,reference NLC match
+6973,SJSr,St James Street,3,-0.032804562,51.58060861,reference NLC match
+695,SJPu,St. James's Park,1,-0.132021543,51.49905006,reference NLC match
+696,SJWu,St. John's Wood,2,-0.172545248,51.53469852,reference NLC match
+697,STPu,St. Paul's,1,-0.095907533,51.51444286,reference NLC match
+713,STBu,Stamford Brook,2,-0.244408726,51.49440814,reference NLC match
+6968,SMHr,Stamford Hill,3,-0.074878256,51.57418005,reference NLC match
+714,STAu,Stanmore,5,-0.30167142,51.61921632,reference NLC match
+889,STLd,Star Lane,2/3,0.005780604,51.52030887,reference NLC match
+715,STGu,Stepney Green,2,-0.044974603,51.52135166,reference NLC match
+716,STKu,Stockwell,2,-0.121436641,51.47131386,reference NLC match
+6934,SKWr,Stoke Newington,2,-0.070536111,51.56417453,reference NLC match
+717,SPKu,Stonebridge Park,3,-0.27487576,51.54368887,reference NLC match
+719,SFDu,Stratford,2/3,-0.002182514,51.54094802,reference NLC match
+749,SHSd,Stratford High Street,2/3,0.000869889,51.53752645,reference NLC match
+504,STId,Stratford International DLR,2/3,-0.007832275,51.54433906,reference NLC match
+720,SHLu,Sudbury Hill,4,-0.335039246,51.55646384,reference NLC match
+721,STNu,Sudbury Town,4,-0.314159662,51.55030341,reference NLC match
+1083,SQEr,Surrey Quays,2,-0.046055836,51.49282777,reference NLC match
+723,SWCu,Swiss Cottage,2,-0.173237239,51.54319998,reference NLC match
+5437,SYDr,Sydenham,3,-0.052652564,51.42659082,reference NLC match
+3151,TAPr,Taplow,CPC,-0.681384851,51.52356084,reference NLC match
+724,TEMu,Temple,1,-0.112643564,51.5104742,reference NLC match
+6949,TEOr,Theobalds Grove,7,-0.033083485,51.69180047,reference NLC match
+9491,TPLt,Therapia Lane,4,-0.127515047,51.38515495,reference NLC match
+725,THBu,Theydon Bois,6,0.104967288,51.67133739,reference NLC match
+726,TBEu,Tooting Bec,3,-0.15763366,51.4353811,reference NLC match
+727,TBYu,Tooting Broadway,3,-0.166791248,51.42715702,reference NLC match
+728,TCRu,Tottenham Court Road,1,-0.128897348,51.51594793,reference NLC match
+729,TTHu,Tottenham Hale LU,3,-0.058547162,51.58754655,reference NLC match
+730,TOTu,Totteridge & Whetstone,4,-0.177599794,51.63009248,reference NLC match
+864,TOGd,Tower Gateway,1,-0.073061976,51.51011047,reference NLC match
+731,THLu,Tower Hill,1,-0.074913869,51.50943419,reference NLC match
+733,TPKu,Tufnell Park,2,-0.136858377,51.5563398,reference NLC match
+6952,TURr,Turkey Street,6,-0.045735795,51.67186641,reference NLC match
+734,TGRu,Turnham Green,2/3,-0.252958803,51.494448,reference NLC match
+735,TPLu,Turnpike Lane,3,-0.101359413,51.58975112,reference NLC match
+3155,TWYr,Twyford,CPC,-0.863306993,51.47553253,reference NLC match
+736,UPMu,Upminster,6,0.252767235,51.55857711,reference NLC match
+737,UPBu,Upminster Bridge,6,0.237476635,51.55798569,reference NLC match
+738,UPYu,Upney,4,0.103187503,51.53784406,reference NLC match
+1524,UHLr,Upper Holloway,2,-0.127532858,51.56303879,reference NLC match
+739,UPKu,Upton Park,3,0.036836325,51.53487026,reference NLC match
+740,UXBu,Uxbridge,6,-0.4760666,51.54596187,reference NLC match
+777,VUXu,Vauxhall LU,1/2,-0.122646146,51.48518446,reference NLC match
+741,VICu,Victoria LU,1,-0.141485017,51.49588954,reference NLC match
+9497,WDMt,Waddon Marsh,4,-0.116278811,51.37647839,reference NLC match
+742,WALu,Walthamstow Central,3,-0.019895332,51.58261626,reference NLC match
+7407,WMWr,Walthamstow Queen's Road,3,-0.022254511,51.58097129,reference NLC match
+9498,WPKt,Wandle Park,4,-0.111770014,51.37293871,reference NLC match
+5372,WWRr,Wandsworth Road,2,-0.136926893,51.46943062,reference NLC match
+743,WANu,Wanstead,4,0.030247766,51.57509659,reference NLC match
+7408,WNPr,Wanstead Park,3,0.027694662,51.55118604,reference NLC match
+1085,WPEr,Wapping,2,-0.054345515,51.50386599,reference NLC match
+745,WSTu,Warren Street,1,-0.136735811,51.52401887,reference NLC match
+746,WARu,Warwick Avenue,2,-0.182005998,51.52269118,reference NLC match
+747,WLOu,Waterloo LU,1,-0.112818812,51.50291418,reference NLC match
+748,WATu,Watford,7,-0.415832512,51.65699167,reference NLC match
+1455,WFHr,Watford High Street,8,-0.390612987,51.6519637,reference NLC match
+1402,WFJr,Watford Junction,10,-0.394615064,51.6634936,reference NLC match
+9499,WLRt,Wellesley Road,4,-0.095978591,51.37499854,reference NLC match
+751,WEMu,Wembley Central,4,-0.295237517,51.55177912,reference NLC match
+752,WPKu,Wembley Park,4,-0.278458638,51.56325938,reference NLC match
+753,WACu,West Acton,3,-0.279364414,51.51747345,reference NLC match
+755,WBTu,West Brompton,2,-0.193973832,51.48676791,reference NLC match
+5411,WCYr,West Croydon NR,5,-0.101229704,51.37780543,reference NLC match
+8776,WCRt,West Croydon Trams,4,-0.100095218,51.37841469,reference NLC match
+3174,WDTr,West Drayton,6,-0.472176084,51.51007045,reference NLC match
+3188,WEAr,West Ealing,3,-0.319782949,51.51362468,reference NLC match
+756,WFYu,West Finchley,4,-0.186738929,51.60898928,reference NLC match
+757,WHMu,West Ham,2/3,0.00590508,51.52776913,reference NLC match
+1421,WHDr,West Hampstead LO,2,-0.188759559,51.54628297,reference NLC match
+758,WHDu,West Hampstead LU,2,-0.188568627,51.54629707,reference NLC match
+759,WHRu,West Harrow,5,-0.351706569,51.57906815,reference NLC match
+866,WIQd,West India Quay,2,-0.018586106,51.50697183,reference NLC match
+760,WKNu,West Kensington,2,-0.203860054,51.49027946,reference NLC match
+762,WRPu,West Ruislip,6,-0.436073394,51.56913097,reference NLC match
+559,WSId,West Silvertown,3,0.023940282,51.50237959,reference NLC match
+754,WBPu,Westbourne Park,2,-0.199554267,51.52041239,reference NLC match
+865,WESd,Westferry,2,-0.025301528,51.50899182,reference NLC match
+761,WMSu,Westminster,1,-0.124052209,51.50045311,reference NLC match
+764,WCTu,White City,2,-0.222866489,51.51170695,reference NLC match
+6956,WHLr,White Hart Lane,3,-0.069256013,51.60447174,reference NLC match
+763,WCLu,Whitechapel,2,-0.05838503,51.51901529,reference NLC match
+765,WLGu,Willesden Green,2/3,-0.221119357,51.54886838,reference NLC match
+766,WJNu,Willesden Junction,2/3,-0.242978972,51.5318981,reference NLC match
+767,WIMu,Wimbledon,3,-0.204921053,51.42091587,reference NLC match
+768,WMPu,Wimbledon Park,3,-0.19749098,51.43353749,reference NLC match
+8777,WMBt,Wimbledon Trams,3,-0.204395752,51.42048966,reference NLC match
+770,WGNu,Wood Green,3,-0.108246806,51.5969712,reference NLC match
+599,WDLu,Wood Lane,2,-0.221994162,51.50963208,reference NLC match
+6954,WSTr,Wood Street,4,-0.000741221,51.58600285,reference NLC match
+769,WFDu,Woodford,4,0.035640856,51.60635963,reference NLC match
+7467,WGRr,Woodgrange Park,3/4,0.045631091,51.54871611,reference NLC match
+8779,WDSt,Woodside,4,-0.063965962,51.38645328,reference NLC match
+771,WSPu,Woodside Park,4,-0.183907004,51.61758971,reference NLC match
+573,WOAd,Woolwich Arsenal,4,0.070492592,51.48946942,reference NLC match
+6560,CWXr,Canary Wharf EL,2,-0.0180268,51.5062331,reference NLC match
+5131,ABWr,Abbey Wood,4,0.003723371,51.531952,reference NLC match
+6561,CUSr,Custom House EL,3,0.028149357,51.50922299,Custom House DLR complex proxy
+6562,WWCr,Woolwich EL,4,0.071819,51.491578,reference NLC match
+9846,HWVr,Heathrow Terminal 5 EL,6,-0.486475608,51.47201647,reference NLC match

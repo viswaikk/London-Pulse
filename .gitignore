@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env*
+!.env.example
+data/raw/*.xlsx
+data/processed/*.csv.gz
+playwright-report/

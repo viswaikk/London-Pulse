@@ -1,0 +1,12 @@
+{
+  "daily_entries": 5182759.967438122,
+  "daily_exits": 5186806.492024759,
+  "entry_exit_difference": 4046.524586636573,
+  "top10_entry_share": 0.20528083330992605,
+  "peak_interval": "1730-1745",
+  "peak_entries": 140479.6450035778,
+  "am_peak_entries_0700_1000": 1265270.4821910847,
+  "pm_peak_entries_1600_1900": 1406794.8279875477,
+  "pm_to_am_ratio": 1.1118530367920887,
+  "busiest_line": "Northern"
+}

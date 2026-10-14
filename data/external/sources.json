@@ -1,0 +1,5 @@
+{
+  "stations_source.csv": "https://raw.githubusercontent.com/Osakwe1/TFL_Stations/master/data/Geodata/Stations_20220221.csv",
+  "thames.geojson": "https://gis.london.gov.uk/arcgis/rest/services/apps/webmap_context_layer/FeatureServer/1/query?where=1%3D1&outFields=%2A&outSR=4326&f=geojson&maxAllowableOffset=.00015",
+  "london.geojson": "https://gis.london.gov.uk/arcgis/rest/services/apps/webmap_context_layer/MapServer/0/query?where=1%3D1&outFields=%2A&outSR=4326&f=geojson&maxAllowableOffset=.0005"
+}

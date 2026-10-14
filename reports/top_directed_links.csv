@@ -1,0 +1,11 @@
+Line,Dir,From Station,To Station,Total
+Elizabeth Line,EB,Farringdon,Liverpool Street LU,193615.35780593156
+Elizabeth Line,WB,Liverpool Street LU,Farringdon,190408.0655162459
+Elizabeth Line,WB,Whitechapel,Liverpool Street LU,189670.8975407006
+Elizabeth Line,EB,Liverpool Street LU,Whitechapel,187766.67574608664
+Elizabeth Line,EB,Tottenham Court Road,Farringdon,184833.2380376431
+Elizabeth Line,WB,Farringdon,Tottenham Court Road,184010.35691097303
+Victoria,NB,Oxford Circus,Warren Street,160323.52616895552
+Victoria,NB,Victoria LU,Green Park,159607.04036183757
+Victoria,NB,Green Park,Oxford Circus,159561.82615906122
+Elizabeth Line,WB,Tottenham Court Road,Bond Street,159289.60322049024

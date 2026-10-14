@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#091115" />
+  <meta name="description" content="Explore a day on London's rail network. An interactive Three.js map of TfL NUMBAT 2025 passenger demand, with a reproducible Python analysis." />
+  <title>London Pulse — A day in motion</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+</head>
+<body>
+  <a class="skip-link" href="#controls">Skip to map controls</a>
+  <header class="header">
+    <a class="brand" href="./" aria-label="London Pulse home"><svg viewBox="0 0 36 36" aria-hidden="true"><circle cx="18" cy="18" r="12"/><path d="M1 18h10l4-8 6 16 4-8h10"/></svg><span>LONDON<span class="brand-light">PULSE</span></span></a>
+    <nav aria-label="Main"><button class="nav-button active" data-view="map">Explore the map</button><button class="nav-button" data-view="insights">Data story</button><button class="nav-button" data-view="method">Behind the data</button></nav>
+    <span class="edition">A DAY IN MOTION <span>2025</span></span>
+  </header>
+  <main id="map-view" class="workspace">
+    <aside class="sidebar" id="controls">
+      <div class="eyebrow">THE CITY, IN MOTION</div>
+      <h1>Every station.<br>Every pulse.</h1>
+      <p class="intro">Follow the ebb and flow of a typical weekday on London’s rail network.</p>
+      <div class="dataset-label"><span class="small-dot"></span> AUTUMN 2025 <span>·</span> TUE–THU</div>
+      <div class="metric-picker" role="group" aria-label="Station demand metric"><button class="selected" data-metric="entries" aria-pressed="true">Entries</button><button data-metric="exits" aria-pressed="false">Exits</button></div>
+      <div class="stat-label" id="metric-label">NETWORK ENTRIES / 15 MIN</div>
+      <div class="big-stat" id="network-value">—</div>
+      <div class="stat-foot"><span id="network-context">Loading passenger demand…</span><svg viewBox="0 0 70 25" id="mini-trend" aria-hidden="true"></svg></div>
+      <div class="divider"></div>
+      <div class="section-label"><label for="line-select">Network focus</label><span id="line-count">18 lines</span></div>
+      <select id="line-select" aria-label="Filter rail line"><option value="all">All rail lines</option></select>
+      <div class="line-grid" id="line-grid" aria-label="Rail line shortcuts"></div>
+      <div class="divider"></div>
+      <div class="section-label"><label for="station-search">Find a station</label><span>⌕</span></div>
+      <input type="search" id="station-search" placeholder="e.g. King’s Cross" autocomplete="off" aria-controls="search-results" />
+      <div id="search-results" class="search-results" aria-live="polite"></div>
+      <div class="ranking-heading"><span id="ranking-title">BUSIEST RIGHT NOW</span><span>15 MIN</span></div>
+      <div id="ranking" class="ranking"></div>
+      <div class="sidebar-footer"><span class="tiny-icon">◷</span><p>Estimated demand, not live arrivals.<br><button class="text-button" data-view="method">Read the methodology</button></p></div>
+    </aside>
+    <section class="map-stage" aria-label="Interactive geographic rail map">
+      <div id="map-canvas" role="img" aria-label="Animated geographic map of London rail demand. Use station search and the ranked station buttons for keyboard access."></div>
+      <div class="map-noise" aria-hidden="true"></div>
+      <div class="map-caption"><span class="capsule">GEOGRAPHIC VIEW</span><span class="map-subtitle">London & the surrounding network</span></div>
+      <div class="map-tools"><button id="toggle-3d" title="Toggle map perspective" aria-pressed="true">3D</button><button id="zoom-in" aria-label="Zoom in">+</button><button id="zoom-out" aria-label="Zoom out">−</button><button id="reset-map" aria-label="Reset map view" title="Reset map view">⌖</button><button id="fit-map" aria-label="Show entire rail network" title="Entire network">⛶</button></div>
+      <div id="map-labels" aria-hidden="true"></div>
+      <div class="map-location"><span>N</span><svg viewBox="0 0 20 28"><path d="M10 2L3 23l7-5 7 5Z"/></svg><span id="scale-text">LONDON</span></div>
+      <div class="map-legend"><span class="legend-dot"></span> Station demand <span class="legend-line"></span> Directional flow <span class="legend-muted">Relative intensity</span></div>
+      <div class="map-hint">Drag to pan <span>·</span> Scroll to zoom <span>·</span> Right-drag to orbit</div>
+      <div id="map-status" class="map-status" role="status">Preparing London’s pulse…</div>
+      <section class="station-card" id="station-card" aria-label="Selected station" hidden>
+        <button id="close-station" class="close-button" aria-label="Close station details">×</button>
+        <div class="eyebrow" id="station-zone"></div><h2 id="station-name"></h2><div class="station-lines" id="station-lines"></div>
+        <div class="station-metrics"><div><span>Entries / 15 min</span><strong id="station-entries"></strong></div><div><span>Exits / 15 min</span><strong id="station-exits"></strong></div></div>
+        <div class="chart-caption">A FULL DAY AT THIS STATION <span>Entries · Exits</span></div><svg id="station-chart" viewBox="0 0 290 65" aria-label="Station entries and exits over the traffic day" role="img"></svg>
+        <div class="chart-ticks"><span>05:00</span><span>12:00</span><span>19:00</span><span>05:00 +1</span></div>
+        <p id="station-total"></p><p id="coordinate-note" class="coordinate-note"></p>
+      </section>
+      <section class="timeline" aria-label="Traffic day playback">
+        <div class="timeline-top"><div class="time-block"><span class="eyebrow" id="period-name">MORNING PEAK</span><strong id="time-display">08:30<span>AM</span></strong></div><div class="time-presets" role="group" aria-label="Jump to time"><button data-time="14" class="selected">Morning</button><button data-time="32">Midday</button><button data-time="50">Evening</button><button data-time="72">Night</button></div><div class="playback-controls"><button id="speed" aria-label="Playback speed">1×</button><button id="play" class="play-button" aria-label="Play the traffic day"><svg viewBox="0 0 20 20"><path d="m7 4 9 6-9 6Z"/></svg></button></div></div>
+        <div class="timeline-chart"><svg id="day-chart" viewBox="0 0 960 42" preserveAspectRatio="none" aria-hidden="true"></svg><div id="time-marker"></div><input id="time-range" type="range" min="0" max="95" step="1" value="14" aria-label="Time of traffic day" aria-valuetext="08:30 to 08:45" /></div>
+        <div class="timeline-ticks"><span>05:00</span><span>09:00</span><span>13:00</span><span>17:00</span><span>21:00</span><span>01:00 <em>+1</em></span><span>05:00 <em>+1</em></span></div>
+        <div class="timeline-footer"><span><i></i> <span id="coverage">Loading network</span></span><span>15-minute intervals <span class="desktop-only">· TfL NUMBAT</span></span></div>
+      </section>
+    </section>
+  </main>
+  <main id="insights-view" class="document-view" hidden></main>
+  <main id="method-view" class="document-view" hidden></main>
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>
